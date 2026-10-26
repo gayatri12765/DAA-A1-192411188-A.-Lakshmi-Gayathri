@@ -1,0 +1,4 @@
+design,preprocess_s,total_50000_s,per_search_us,avg_comparisons,prep_plus_total_s
+Linear (extrapolated from 200 searches),0.0,2719.9694,54399.388,747469.7,2719.9694
+Binary (sort once),0.3416,0.2079,4.158,19.46,0.5495
+Hash (build once),1.0515,0.0422,0.844,0.85,1.0937
